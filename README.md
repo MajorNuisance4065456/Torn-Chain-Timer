@@ -8,4 +8,4 @@ Torn Chain Timer, a single stand alone exe file.
 7. Help fund better versions 
 
 
- API is called every 30 seconds, timer may run 30sec low max before it catches up to the chain timer reup after an attack.  
+ API is called every 30 seconds, timer may run 30sec low, before it catches up to the chain timer reup after an attack this is due to the API restrictions, and not being in the browser.  
